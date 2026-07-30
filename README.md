@@ -1,5 +1,8 @@
 # 💫 About Me:
-AI Engineer with hands-on experience building and deploying production ML pipelines, NLP systems, and generative AI applications in Python. Shipped and published open-source packages, built a real-time disaster-response data pipeline, and deployed customer-facing AI tools using LLM APIs, Docker, and cloud platforms. Currently deepening expertise in RAG pipelines, LangChain-based agent orchestration, and vector databases.
+AI/ML Engineer specializing in LLM-based and agentic systems, with an MS in Data Science.Builds and deploys RAG pipelines and multi-agent workflows using LangChain and LangGraph, backed by strong Python engineering across ETL/ELT pipelines, vector databases, and 
+NoSQL systems (MongoDB). Designs and ships REST APIs with FastAPI, deploys containerized services via Docker, and has published installable packages on PyPI.Skilled at translating complex technical work into clear documentation and communication 
+for both technical and non-technical stakeholders.
+
 
 
 # 💻 Tech Stack:
